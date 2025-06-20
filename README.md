@@ -79,13 +79,3 @@ lib/
 ## Tác giả
 
 - HoangKhoiDev
-
-## Giấy phép
-
-Dự án này được cấp phép theo [MIT License](LICENSE).
-
-## Lời cảm ơn
-
-- [Flutter](https://flutter.dev/)
-- [Flame Engine](https://flame-engine.org/)
-- Đồng Nguyễn - Tác giả gốc của Flappy Bird
