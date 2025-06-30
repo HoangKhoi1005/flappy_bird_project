@@ -76,6 +76,4 @@ lib/
 4. Mỗi khi vượt qua một cặp cột, bạn sẽ nhận được một điểm
 5. Cố gắng đạt điểm cao nhất!
 
-## Tác giả
-
 - HoangKhoiDev
